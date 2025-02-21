@@ -1,7 +1,6 @@
 { 
   "ver":1.0, 
   "se":{ 
-    "1": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_2_evo.mp3"},
     "3": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/countdown5.mp3"},
     "8": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/btn_appear.mp3"},
      "9": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/new_dora.mp3"},
@@ -12,13 +11,13 @@
     "28": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/ailisha/act_kan.mp3"}, 
     "29": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/ailisha/act_chi.mp3"},
     "30": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/character/ailisha/act_chi.mp3"},
-    "31": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_4_evo.mp3"}, 
+    "31": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_4.mp3"}, 
     "32": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_4_evo.mp3"}, 
     "33": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_3.mp3"}, 
-    "34": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_3.mp3"},
-    "35": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_4.mp3"},
-    "36": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_4.mp3"},
-    "40": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_1.mp3"},
-    "41": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_2.mp3"}
+    "34": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_1.mp3"},
+    "35": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_2.mp3"},
+    "36": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_2_evo.mp3"},
+    "40": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/winlose.mp3"},
+    "41": {"https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/yakuman.mp3"}
   } 
 }
