@@ -1,6 +1,7 @@
 { 
   "ver":1.0, 
   "se":{ 
+    "1": {"url": "https://svgdb.me/assets/audio/jp/vo_131741020_2_evo.mp3"},
     "3": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/countdown5.mp3"},
     "8": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/btn_appear.mp3"},
      "9": {"url": "https://raw.githubusercontent.com/Mahjong-Toki/tenhou-se/master/audio/new_dora.mp3"},
